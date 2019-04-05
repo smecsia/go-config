@@ -1,0 +1,11 @@
+vendor
+.env
+vendor/
+.DS_Store
+bin/
+.idea/
+.vscode/
+*.iml
+*.env
+*.pem
+bin/
